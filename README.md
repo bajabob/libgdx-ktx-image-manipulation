@@ -1,8 +1,8 @@
 ## Image manipulation 
 
-LibGDX, game engine written in Java. 
+LibGDX, game engine written in Java. KTX, Kotlin DSL for LibDGX. 
 
-First tutorial in the LibGDX series. 
+First tutorial in the LibGDX series, adapted for Kotlin.
 https://libgdx.info/basic_image/
 
 ### How to Run
